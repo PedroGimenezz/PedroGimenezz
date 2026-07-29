@@ -1,5 +1,10 @@
-## Pedro Gimenez
+<h1 align="center">
+  Hi 👋, I'm Pedro Gimenez
+</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&lines=Bachelor+of+Computer+Science;Back-end+Developer;Python+%7C+APIs+%7C+Automation;IT+Support+and+Infrastructure" />
+</p>
 
 
 <div align="center">
